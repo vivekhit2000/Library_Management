@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lm_Library_Management_Service_NET.props" />
+</Project>
